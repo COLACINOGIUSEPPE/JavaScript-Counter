@@ -36,4 +36,6 @@ This is my first project usign JavaScript completed in November 2022.
 # Author:
 
 Giuseppe Colacino - Front End Developer Student based in Italy.
-* email: colacinogiuseppe10
+* email: colacinogiuseppe10@gmail.com
+* Showwcase: https://colacinogiuseppe.showwcase.com
+* LinkedIn : https://www.linkedin.com/in/giuseppe-colacino/

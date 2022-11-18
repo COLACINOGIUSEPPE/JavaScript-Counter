@@ -2,7 +2,7 @@
 This is my first project usign JavaScript language, after i've completed the JavaScript Basics guide on Start2Impact University.
 
 # Link
-Link to the project (Hosted on Netlifly).
+Link to the project https://trythiscounter.netlify.app (Hosted on Netlifly).
 
 # Preview Counter
 <img width="1322" alt="img-counter" src="https://user-images.githubusercontent.com/62830611/202695663-04465f92-bd40-4ed3-9371-e51d953dcd3c.png">
